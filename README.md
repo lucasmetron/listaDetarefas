@@ -1,6 +1,6 @@
 # Lista de Tarefas
 
-### - Nesta aplicação fiz uma simples lista de tarefas utilizando o conceito de Local Storage. Está proprieda permite realizar persistência de dados, sem utilizar banco de dados.   
+### - Nesta aplicação fiz uma simples lista de tarefas utilizando o conceito de Local Storage. Está propriedade permite realizar persistência de dados, sem utilizar banco de dados.   
 
 ### - Nesta aplicação foram usados as seguintes tecnologias:
 
