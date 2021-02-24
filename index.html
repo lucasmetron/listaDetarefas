@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tarefas</title>
+    
+    <link rel="stylesheet" href="./style.css">
+    <script type="text/javascript" src="./script.js"></script>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="conteiner">
+        <head>
+            <h1 class="tasklist">Lista de Tarefas</h1>
+        </head>
+
+        <section class="tarefas">
+
+            <strong>Adicione abaixo as tarefas a serem realizadas</strong><br>
+
+            <input type="text" id="contTarefa" class="textArea"><br><br>
+            <p onclick="addTarefa(), window.location.reload()" class="styleBotao verde" >Adicionar</p>
+            <p id="excluirTarefa" onclick="excluiTarefa(), window.location.reload()" class="styleBotao vermelho"> Excluir</p><br>
+            
+            <ol id="telaTarefas" class="lista"> 
+        
+            </ol>
+            
+           
+        </section>
+
+        <footer class="dev" >
+    
+             <p>Desenvolvido Por lucas</p>
+            
+        </footer>
+
+
+
+    </div>
+
+</body>
+
+</html>
