@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.conteiner{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(65, 52, 40) ;
+    background-image: url(./images/produtividade.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+
+/* HEAD */
+
+head{
+    margin-top: 10px;
+}
+.tasklist{
+    width: 80%;
+    border-radius: 25px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: rgb(82,167,194, 0.8);
+    font-family: 'Akaya Telivigala', cursive;
+    letter-spacing: 1px;
+    
+}
+
+/* Principal Section */
+strong{
+    display: inline-block;
+    margin-bottom: 25px;
+    text-align: center;
+    color: rgb(82,167,194);
+
+}
+
+.tarefas{
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-sizing: border-box;
+    margin: 80px;
+    padding: 50px;
+    text-align: center;
+  
+}
+
+.tarefas P {
+    display: inline;
+    margin-top: 15px;
+}
+
+.inputxt{
+    width: 40%;
+    margin-top: 25px;
+}
+
+.styleBotao{
+    border: solid 1px;
+    border-radius: 15px;
+    margin-left: 0.5em;
+    padding: 0.5em;
+    color: white;
+}
+
+.verde{
+    color: white;
+    background-color: rgb(128, 223, 128);
+}
+
+.vermelho{
+    color: white;
+    background-color: rgb(243, 94, 94);
+}
+
+.textArea{
+    width: 200px;
+}
+
+.lista{
+    margin-top: 20px;
+    display: inline-block;
+    text-align: left;
+}
+/*Footer*/
+
+.dev{
+    background-color: rgba(255, 255, 255, 0.5);
+    display: inline-block;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    color: rgb(82,167,194);
+    font-weight: 900;
+    
+}
