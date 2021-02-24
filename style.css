@@ -76,16 +76,35 @@ strong{
 .verde{
     color: white;
     background-color: rgb(128, 223, 128);
+    letter-spacing: 0.8px;
+}
+
+.verde:hover{
+    background-color: rgb(86, 187, 86);
+    font-weight: 900;
+    border: solid black 1px;
+
 }
 
 .vermelho{
     color: white;
     background-color: rgb(243, 94, 94);
+    letter-spacing: 0.8px;
+}
+
+.vermelho:hover{
+    background-color: rgb(236, 52, 52);
+    border: solid black 1px;
+    font-weight: 900;
 }
 
 .textArea{
     width: 200px;
+    border: solid 2px ;
+    padding: 3px;
 }
+
+
 
 .lista{
     margin-top: 20px;
