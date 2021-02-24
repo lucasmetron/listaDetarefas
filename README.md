@@ -12,7 +12,7 @@
 ![Tela inicial](images/desafio.gif)
 
 ### Front End para celular
-#### Obs: Neste caso eu não coloquei responsividade pois estava focado em aprender JavaScript e Local Storage
+#### Obs: Neste projeto não coloquei responsividade pois estava focado em aprender JavaScript e Local Storage
 
 
 ### Gostou do meu projeto? :D Entre em contato comigo! 
